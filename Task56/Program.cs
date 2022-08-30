@@ -29,4 +29,4 @@ for (int i = 0; i < matrix.GetLength(0); i++)
     }
     Console.WriteLine($"  сумма  = {temp}");
 }
-Console.WriteLine($"{rows} строка");
+Console.WriteLine($"{rows+1} строка");
